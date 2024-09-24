@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:textAllCaps="false"
+                android:textColor="@color/sky"
+                android:text="@string/prothes_title"
+                android:typeface="serif"
+                android:gravity="center"
+                android:layout_marginVertical="20dp"
+                android:id="@+id/title"
+                android:tag="title"
+                />
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:src="@drawable/prothes"
+                android:scaleType="fitXY"
+                android:id="@+id/imageView1"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:textAllCaps="false"
+                android:textColor="@color/sky"
+                android:text="@string/details"
+                android:typeface="serif"
+                android:gravity="center"
+                android:layout_marginVertical="20dp"
+                android:paddingHorizontal="15dp"
+                android:layout_gravity="center"
+                android:id="@+id/description"
+                />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LayoutInfalte With XML</string>
+
+    <string name="details">
+        I am Prothes Barai and i am full stack web developer. My Profession is web design, web development and with software development. I work 9 to 10 hours everyday. I have been practicing for five consecutive years.  And i have four years of working experience . My goal is to satisfy clients through work .  and they try to understand whats want to their website , understand their problems and help them from beginning to end . And I solve their problems in the right way . After completing the work, I instruct the clients that how they will edit , update and manage their website . Always I love my work .. And I do every task perfectly with attention.
+    </string>
+
+    <string name="shreyasi_title">Shreyasi Madhu</string>
+
+    <string name="shreyasi_details">
+        My Name is Shreyasi Madhu Shampa. My Father name is Subodh Madhu. My Mother name is Maya Rani Madhu. I was born on 15 January 2000 in Kafulabari village of Kotalipara upazila of Gopalganj District. My Religion is Hindu. I Passed SSC from Science Deparment in 2016 and HSC from Science Department in 2018. And I am Currently Studying in BSC Engineering in CSE Department.I started working in web design and development in 2020 and work 9 - 10 hours per day. And from 2020 I started working on Software Development.
+    </string>
+    <string name="prothes_title">Prothes Barai</string>
+</resources>
